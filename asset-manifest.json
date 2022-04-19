@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quantum-wordle/static/css/main.3d33e0f0.css",
+    "main.js": "/quantum-wordle/static/js/main.f99eb92c.js",
+    "static/js/787.b3f9d252.chunk.js": "/quantum-wordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/quantum-wordle/index.html",
+    "main.3d33e0f0.css.map": "/quantum-wordle/static/css/main.3d33e0f0.css.map",
+    "main.f99eb92c.js.map": "/quantum-wordle/static/js/main.f99eb92c.js.map",
+    "787.b3f9d252.chunk.js.map": "/quantum-wordle/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d33e0f0.css",
+    "static/js/main.f99eb92c.js"
+  ]
+}
